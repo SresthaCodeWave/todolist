@@ -19,9 +19,16 @@ A today page and any new list page you want to create(i.e. , multiple lists)
 # Sreenshots
 ![image](https://user-images.githubusercontent.com/74773717/143163438-145afe10-b01a-44b5-aea9-a3359b3409f5.png)
 To create multiple list:
+
 Click in the url and add a different name(i.e., the name of the list)
+
 ![image](https://user-images.githubusercontent.com/74773717/143163506-71975bfe-bac3-4ec8-84e6-81d8614004be.png)
+
 A different list is created
+
 ![image](https://user-images.githubusercontent.com/74773717/143163645-731c0a35-b243-4137-a483-7aa5fd68533a.png)
 
+You can create any list like this and a complete different list with a seperate database will be create
+
+![image](https://user-images.githubusercontent.com/74773717/143163901-0996517d-c904-46f8-a2e8-f3764c99e193.png)
 
